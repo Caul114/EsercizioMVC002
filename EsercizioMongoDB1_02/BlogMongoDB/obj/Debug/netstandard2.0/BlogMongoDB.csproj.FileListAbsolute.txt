@@ -1,0 +1,8 @@
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\bin\Debug\netstandard2.0\BlogMongoDB.deps.json
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\bin\Debug\netstandard2.0\BlogMongoDB.dll
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\obj\Debug\netstandard2.0\BlogMongoDB.csprojAssemblyReference.cache
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\obj\Debug\netstandard2.0\BlogMongoDB.AssemblyInfoInputs.cache
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\obj\Debug\netstandard2.0\BlogMongoDB.AssemblyInfo.cs
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\bin\Debug\netstandard2.0\BlogMongoDB.pdb
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\obj\Debug\netstandard2.0\BlogMongoDB.dll
+C:\Dati\Informatica\_Esercizi\ASPNET\_MieiEserciziASPNET\EsercizioMongoDB1_02\BlogMongoDB\obj\Debug\netstandard2.0\BlogMongoDB.pdb

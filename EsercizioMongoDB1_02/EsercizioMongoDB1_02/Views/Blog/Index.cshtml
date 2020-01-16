@@ -1,0 +1,61 @@
+﻿@model IEnumerable<BlogMongoDB.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Blog</h1>
+<hr/>
+<h3>@ViewBag.Message</h3>
+@if(ViewBag.ShowDate == true)
+{
+    <div><p><i>La data corrente è @ViewBag.CurrentDate</i></p></div>
+}
+@Html.ActionLink("Un link...", "Say Hello")
+<hr/>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Image)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Delete", "DeleteView", new { id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
