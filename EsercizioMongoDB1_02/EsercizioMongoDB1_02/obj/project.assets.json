@@ -8366,11 +8366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02.csproj",
+      "projectUniqueName": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02.csproj",
       "projectName": "EsercizioMongoDB1_02",
-      "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02.csproj",
+      "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02.csproj",
       "packagesPath": "C:\\Users\\luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\obj\\",
+      "outputPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\EsercizioMongoDB1_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8391,8 +8391,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj": {
-              "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj"
+            "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj": {
+              "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj"
             }
           }
         }

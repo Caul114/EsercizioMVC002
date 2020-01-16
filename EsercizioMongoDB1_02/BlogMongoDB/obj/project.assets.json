@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj",
+      "projectUniqueName": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj",
       "projectName": "BlogMongoDB",
-      "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj",
+      "projectPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\BlogMongoDB\\BlogMongoDB.csproj",
       "packagesPath": "C:\\Users\\luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_MieiEserciziASPNET\\EsercizioMongoDB1_02\\BlogMongoDB\\obj\\",
+      "outputPath": "C:\\Dati\\Informatica\\_Esercizi\\ASPNET\\_GitHub\\EsercizioMVC002\\EsercizioMongoDB1_02\\BlogMongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
